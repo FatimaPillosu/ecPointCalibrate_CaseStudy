@@ -10,7 +10,6 @@ This reporsitory contains all the necessary information to run two case studies 
 The repository also contains the raw data (i.e. forecasts and observations) to run the case studies. The Jupyter notebook used to pre-process the raw data is also contained in this repository, and it can be launched on the browser via Binder (click the badge below).
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FatimaPillosu/ecPointCalibrate_CaseStudy/HEAD)
-[![RawData](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FatimaPillosu/ecPointCalibrate_CaseStudy/HEAD)
 
 A more detailed explanation of the case studies for ecpoint-Calibrate can be found in this [Confluence](https://confluence.ecmwf.int/display/ECPTC/ecPoint-Calibrate+Home) page.
 
