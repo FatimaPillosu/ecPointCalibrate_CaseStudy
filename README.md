@@ -1,9 +1,9 @@
-#  Template_Metview_Python_JupyterNB_Binder 
+#  ecpointCalibrate_CaseStudy
 
 <p>&nbsp;</p>  
 
 ## Project Overview
-This is template repository that deploys with MyBinder.org a Jupyter notebook that runs Metview-Python code.
+This is a reporsitory that contains all the data necessary to run a case study to understand how to use ecPoint-Calibrate.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FatimaPillosu/Template_Metview_Python_JupyterNB_Binder/master)
 
