@@ -1,0 +1,8 @@
+name: Metview-Python
+channels:
+  - conda-forge
+dependencies:
+  - metview-batch
+  - pip
+  - pip:
+    - metview
