@@ -1,4 +1,4 @@
-#  ecpointCalibrate_CaseStudy
+#  Case Studies for ecPoint-Calibrate
 
 <p>&nbsp;</p>  
 
