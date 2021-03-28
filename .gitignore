@@ -1,2 +1,5 @@
-# Ignore all compressed files
+# Ignore all compressed, csv and grib files
 *.tar.gz
+*.csv
+*.grib
+
