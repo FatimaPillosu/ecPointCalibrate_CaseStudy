@@ -21,7 +21,7 @@ This reporsitory contains the documentation to run two case studies for [ecPoint
 The repository also contains the Jupyter notebook used to pre-process the raw data (i.e. forecasts and observations). The Juptyer notebook can be run directly on the web browser by clicking on the Binder badge above.
 The raw data necessary to run the Jupyter notebook is stored in a Zenodo repository that can be accessed it by clicking on the Zenodo badge above.
 
-A detailed explanation for the ecPoint-Calibrate case studies can be found in [here](https://confluence.ecmwf.int/display/ECPTC/ecPoint-Calibrate+Home).
+A detailed explanation for the ecPoint-Calibrate case studies can be found in [here](https://confluence.ecmwf.int/display/ECPTC/Case+Studies).
 
 ## Versioning  
 This repository uses the [SemVer](http://semver.org/) standard for versioning. All the versions for this repository are available [here](https://github.com/FatimaPillosu/ecPointCalibrate_CaseStudy/releases). 
